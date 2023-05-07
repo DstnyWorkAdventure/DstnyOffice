@@ -588,8 +588,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":3804,
-         "source":"1_Generic_32x32.tsx"
+         "image":"tilesets\/1_Interiors\/32x32\/Theme_Sorter_32x32\/1_Generic_32x32.png",
+         "imageheight":2496,
+         "imagewidth":512,
+         "margin":0,
+         "name":"1_Generic_32x32",
+         "spacing":0,
+         "tilecount":1248,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":5052,
