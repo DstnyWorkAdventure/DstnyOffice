@@ -640,8 +640,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":2956,
-         "source":"Modern_Office.tsx"
+         "image":"tilesets\/Modern_Office_Revamped\/Modern_Office_32x32.png",
+         "imageheight":1696,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Modern_Office",
+         "spacing":0,
+         "tilecount":848,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
