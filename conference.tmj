@@ -632,6 +632,19 @@
          "tilecount":224,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":22292,
+         "image":"tilesets\/Modern_Office_Revamped\/1_Room_Builder_Office\/Room_Builder_Office_32x32.png",
+         "imageheight":448,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Room_Builder_Office_32x32",
+         "spacing":0,
+         "tilecount":224,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
