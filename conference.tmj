@@ -617,8 +617,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":76,
          "firstgid":13784,
-         "source":"Room_Builder_32x32.tsx"
+         "image":"tilesets\/1_Interiors\/32x32\/Room_Builder_32x32.png",
+         "imageheight":3488,
+         "imagewidth":2432,
+         "margin":0,
+         "name":"Room_Builder_32x32",
+         "spacing":0,
+         "tilecount":8284,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
