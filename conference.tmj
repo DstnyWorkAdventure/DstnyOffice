@@ -556,11 +556,6 @@
                  "name":"jitsiConference",
                  "properties":[
                         {
-                         "name":"https:\/\/destinygroup.atlassian.net\/wiki\/spaces\/SCP\/pages\/804291060\/Workadventure+day",
-                         "type":"",
-                         "value":null
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
