@@ -553,12 +553,22 @@
                 {
                  "height":320,
                  "id":18,
-                 "name":"FeedbackIsWelcome",
+                 "name":"jitsiConference",
                  "properties":[
                         {
-                         "name":"url",
+                         "name":"https:\/\/destinygroup.atlassian.net\/wiki\/spaces\/SCP\/pages\/804291060\/Workadventure+day",
+                         "type":"",
+                         "value":null
+                        }, 
+                        {
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/destinygroup.atlassian.net\/wiki\/spaces\/SCP\/pages\/804291060\/Workadventure+day"
+                         "value":"Conference"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -570,7 +580,7 @@
                 {
                  "height":82,
                  "id":24,
-                 "name":"FeedbackIsWelcome",
+                 "name":"Feedback",
                  "properties":[
                         {
                          "name":"url",
@@ -732,7 +742,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":25,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1035,17 +1045,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":16,
          "firstgid":63540,
-         "image":"tilesets\/1_Interiors\/32x32\/Theme_Sorter_32x32\/5_Classroom_and_library_32x32.png",
-         "imageheight":1088,
-         "imagewidth":512,
-         "margin":0,
-         "name":"5_Classroom_and_library_32x32",
-         "spacing":0,
-         "tilecount":544,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"5_Classroom_and_library_32x32.tsx"
         }],
  "tilewidth":32,
  "type":"map",
