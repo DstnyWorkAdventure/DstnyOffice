@@ -553,7 +553,7 @@
                 {
                  "height":320,
                  "id":18,
-                 "name":"jitsiConference",
+                 "name":"FeedbackIsWelcome",
                  "properties":[
                         {
                          "name":"url",
@@ -570,7 +570,7 @@
                 {
                  "height":82,
                  "id":24,
-                 "name":"Feedback",
+                 "name":"FeedbackIsWelcome",
                  "properties":[
                         {
                          "name":"url",
