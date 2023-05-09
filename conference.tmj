@@ -588,6 +588,17 @@
                  "width":2,
                  "x":1199,
                  "y":1274
+                }, 
+                {
+                 "height":0,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":912,
+                 "y":1579
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -737,7 +748,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1040,8 +1051,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":63540,
-         "source":"Classroom_and_Library_02.tsx"
+         "image":"tilesets\/1_Interiors\/32x32\/Classroom_and_Library_02.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"Classroom_and_Library_02",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
