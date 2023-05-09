@@ -556,14 +556,9 @@
                  "name":"jitsiConference",
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"url",
                          "type":"string",
-                         "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
+                         "value":"https:\/\/destinygroup.atlassian.net\/wiki\/spaces\/SCP\/pages\/804291060\/Workadventure+day"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -578,9 +573,9 @@
                  "name":"Feedback",
                  "properties":[
                         {
-                         "name":"https:\/\/destinygroup.atlassian.net\/wiki\/spaces\/SCP\/pages\/804291060\/Workadventure+day",
+                         "name":"url",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/destinygroup.atlassian.net\/wiki\/spaces\/SCP\/pages\/804291060\/Workadventure+day"
                         }],
                  "rotation":0,
                  "type":"website",
