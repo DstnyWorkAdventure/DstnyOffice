@@ -573,7 +573,7 @@
                  "y":733.077162899454
                 }, 
                 {
-                 "height":1,
+                 "height":63,
                  "id":28,
                  "name":"Feedback",
                  "properties":[
@@ -585,20 +585,9 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":2,
-                 "x":1199,
-                 "y":1274
-                }, 
-                {
-                 "height":0,
-                 "id":29,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":912,
-                 "y":1579
+                 "width":45,
+                 "x":762,
+                 "y":864
                 }],
          "opacity":1,
          "type":"objectgroup",
