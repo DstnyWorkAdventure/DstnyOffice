@@ -997,8 +997,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":176,
          "firstgid":22516,
-         "source":"Modern_Exteriors_Complete_Tileset_32x32.tsx"
+         "image":"tilesets\/Modern_Exteriors_32x32\/Modern_Exteriors_Complete_Tileset_32x32.png",
+         "imageheight":7328,
+         "imagewidth":5632,
+         "margin":0,
+         "name":"Modern_Exteriors_Complete_Tileset_32x32",
+         "spacing":0,
+         "tilecount":40304,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":62820,
