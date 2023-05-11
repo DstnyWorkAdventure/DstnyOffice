@@ -754,7 +754,7 @@
                 {
                  "height":320,
                  "id":18,
-                 "name":"jitsiConference",
+                 "name":"GreenRoom",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -772,6 +772,28 @@
                  "width":380.821228654432,
                  "x":250.960249415433,
                  "y":733.077162899454
+                }, 
+                {
+                 "height":320,
+                 "id":30,
+                 "name":"RedRoom",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Conference"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":380.821,
+                 "x":245.325579328757,
+                 "y":1171.04500381388
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -925,7 +947,7 @@
          "y":0
         }],
  "nextlayerid":65,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
