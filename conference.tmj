@@ -779,6 +779,11 @@
                  "name":"RedRoom",
                  "properties":[
                         {
+                         "name":"adminMood",
+                         "type":"string",
+                         "value":"In conference in Red Room"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
@@ -946,7 +951,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":65,
+ "nextlayerid":66,
  "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
