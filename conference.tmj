@@ -973,7 +973,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/admin.workadventure.escaux.ga\/dist\/ConnectMeWAPlugin.js"
+         "value":"https:\/\/admin.workadventure.escaux.ga\/script\/ConnectMeWAPlugin.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
