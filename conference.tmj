@@ -799,6 +799,23 @@
                  "width":380.821,
                  "x":245.325579328757,
                  "y":1171.04500381388
+                }, 
+                {
+                 "height":63.8825324180016,
+                 "id":34,
+                 "name":"Desk",
+                 "properties":[
+                        {
+                         "name":"collidable",
+                         "type":"string",
+                         "value":"true"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":472.921434019832,
+                 "x":898.169336384439,
+                 "y":1264.30205949657
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -952,7 +969,7 @@
          "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":34,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
