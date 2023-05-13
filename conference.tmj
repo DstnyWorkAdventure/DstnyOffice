@@ -801,21 +801,21 @@
                  "y":1171.04500381388
                 }, 
                 {
-                 "height":63.8825324180016,
-                 "id":34,
-                 "name":"Desk",
+                 "height":35.2784134248665,
+                 "id":36,
+                 "name":"chair",
                  "properties":[
                         {
-                         "name":"collides",
+                         "name":"chair",
                          "type":"string",
                          "value":"true"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":472.921434019832,
-                 "x":898.169336384439,
-                 "y":1264.30205949657
+                 "width":32.4180015255529,
+                 "x":1279.55758962624,
+                 "y":812.356979405034
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -969,7 +969,7 @@
          "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":35,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {
