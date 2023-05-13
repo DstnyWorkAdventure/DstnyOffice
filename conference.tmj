@@ -806,7 +806,7 @@
                  "name":"Desk",
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"string",
                          "value":"true"
                         }],
