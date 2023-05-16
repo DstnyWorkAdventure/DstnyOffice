@@ -1153,57 +1153,6 @@
                 }, 
                 {
                  "height":35.2784,
-                 "id":39,
-                 "name":"chair27",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1311.55759038902,
-                 "y":982.551494126621
-                }, 
-                {
-                 "height":35.2784,
-                 "id":40,
-                 "name":"chair26",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1151.37452402746,
-                 "y":980.644552860412
-                }, 
-                {
-                 "height":35.2784,
-                 "id":41,
-                 "name":"chair25",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":991.191457665904,
-                 "y":980.644552860412
-                }, 
-                {
-                 "height":35.2784,
                  "id":42,
                  "name":"chair24",
                  "properties":[
@@ -1252,57 +1201,6 @@
                  "width":32.418,
                  "x":994.461554811206,
                  "y":1107.05254218433
-                }, 
-                {
-                 "height":35.2784,
-                 "id":45,
-                 "name":"chair21",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1310.76996548924,
-                 "y":1274.4242043849
-                }, 
-                {
-                 "height":35.2784,
-                 "id":46,
-                 "name":"chair20",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1150.57996548924,
-                 "y":1272.5142043849
-                }, 
-                {
-                 "height":35.2784,
-                 "id":47,
-                 "name":"chair19",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":990.401965489241,
-                 "y":1272.5142043849
                 }, 
                 {
                  "height":35.2784,
@@ -1357,57 +1255,6 @@
                 }, 
                 {
                  "height":35.2784,
-                 "id":51,
-                 "name":"chair15",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1312.54343439442,
-                 "y":1560.99508212936
-                }, 
-                {
-                 "height":35.2784,
-                 "id":52,
-                 "name":"chair14",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1152.35343439442,
-                 "y":1559.08508212936
-                }, 
-                {
-                 "height":35.2784,
-                 "id":53,
-                 "name":"chair13",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":992.175434394419,
-                 "y":1559.08508212936
-                }, 
-                {
-                 "height":35.2784,
                  "id":54,
                  "name":"chair12",
                  "properties":[
@@ -1439,57 +1286,6 @@
                  "width":32.418,
                  "x":992.373710451643,
                  "y":1676.25091704895
-                }, 
-                {
-                 "height":35.2784,
-                 "id":57,
-                 "name":"chair10",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1311.01445708205,
-                 "y":1844.50315043746
-                }, 
-                {
-                 "height":35.2784,
-                 "id":58,
-                 "name":"chair9",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":992.358054149917,
-                 "y":1842.09236892882
-                }, 
-                {
-                 "height":35.2784,
-                 "id":60,
-                 "name":"chair8",
-                 "properties":[
-                        {
-                         "name":"chair",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1151.40805414992,
-                 "y":1842.91236892882
                 }, 
                 {
                  "height":35.2784,
@@ -1544,40 +1340,6 @@
                 }, 
                 {
                  "height":35.2784,
-                 "id":64,
-                 "name":"chair4",
-                 "properties":[
-                        {
-                         "name":"chairup^",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1568.16744833294,
-                 "y":1848.05008824781
-                }, 
-                {
-                 "height":35.2784,
-                 "id":65,
-                 "name":"chair3",
-                 "properties":[
-                        {
-                         "name":"chairup",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1724.82386829038,
-                 "y":1848.05008824781
-                }, 
-                {
-                 "height":35.2784,
                  "id":66,
                  "name":"chair2",
                  "properties":[
@@ -1592,23 +1354,6 @@
                  "width":32.418,
                  "x":1886.80069496335,
                  "y":1677.79707335067
-                }, 
-                {
-                 "height":35.2784,
-                 "id":67,
-                 "name":"chair1",
-                 "properties":[
-                        {
-                         "name":"chairup",
-                         "type":"string",
-                         "value":"true"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32.418,
-                 "x":1883.84491345472,
-                 "y":1844.50315043746
                 }],
          "opacity":1,
          "type":"objectgroup",
