@@ -1103,7 +1103,7 @@
                 {
                  "height":35.2784134248665,
                  "id":36,
-                 "name":"chair",
+                 "name":"chair30",
                  "properties":[
                         {
                          "name":"chair",
@@ -1548,7 +1548,7 @@
                  "name":"chair4",
                  "properties":[
                         {
-                         "name":"chair",
+                         "name":"chairup^",
                          "type":"string",
                          "value":"true"
                         }],
@@ -1565,7 +1565,7 @@
                  "name":"chair3",
                  "properties":[
                         {
-                         "name":"chair",
+                         "name":"chairup",
                          "type":"string",
                          "value":"true"
                         }],
@@ -1599,7 +1599,7 @@
                  "name":"chair1",
                  "properties":[
                         {
-                         "name":"chair",
+                         "name":"chairup",
                          "type":"string",
                          "value":"true"
                         }],
