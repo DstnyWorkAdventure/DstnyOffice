@@ -2141,8 +2141,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65012,
-         "source":"14_Basement_32x32.tsx"
+         "image":"tilesets\/1_Interiors\/32x32\/Theme_Sorter_32x32\/14_Basement_32x32.png",
+         "imageheight":1600,
+         "imagewidth":512,
+         "margin":0,
+         "name":"14_Basement_32x32",
+         "spacing":0,
+         "tilecount":800,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":65812,
