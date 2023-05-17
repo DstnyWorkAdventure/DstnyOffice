@@ -2350,8 +2350,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":67316,
-         "source":"22_Museum_32x32.tsx"
+         "image":"tilesets\/1_Interiors\/32x32\/Theme_Sorter_32x32\/22_Museum_32x32.png",
+         "imageheight":3904,
+         "imagewidth":512,
+         "margin":0,
+         "name":"22_Museum_32x32",
+         "spacing":0,
+         "tilecount":1952,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
