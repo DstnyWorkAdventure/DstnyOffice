@@ -1377,7 +1377,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"ConferenceGreen"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1404,7 +1404,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"ConferenceBlue"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1686,7 +1686,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"ConferenceRed"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1713,7 +1713,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"ConferencePurple"
                         }, 
                         {
                          "name":"jitsiTrigger",
